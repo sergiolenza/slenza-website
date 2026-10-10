@@ -1,0 +1,28 @@
+.footer {
+  display: flex;
+  width: min(100%, 80rem);
+  flex-direction: column;
+  gap: 0.75rem;
+  margin: 0 auto;
+  padding: 1.5rem 1.5rem;
+  color: var(--muted-foreground);
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+@media (--tablet-and-up) {
+  .footer {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+}
+
+@media (--desktop-and-up) {
+  .footer {
+    padding-right: 2.5rem;
+    padding-left: 2.5rem;
+  }
+}

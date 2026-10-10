@@ -1,0 +1,24 @@
+:root {
+  color-scheme: dark;
+  --background: #04050c;
+  --foreground: #efebe2;
+  --card: #0a0d16;
+  --card-foreground: #efebe2;
+  --popover: #0a0d16;
+  --popover-foreground: #efebe2;
+  --primary: #ebe7df;
+  --primary-foreground: #04050c;
+  --secondary: #121620;
+  --secondary-foreground: #e2ded5;
+  --muted: #0e111b;
+  --muted-foreground: #9398a5;
+  --accent: #4ece7f;
+  --accent-on-primary: #105c31;
+  --accent-violet: #c4b5fd;
+  --accent-orange: #fdba74;
+  --accent-foreground: #04050c;
+  --border: #242835;
+  --input: #242835;
+  --ring: #4ece7f;
+  --radius: 0.75rem;
+}

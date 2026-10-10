@@ -1,0 +1,353 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2026-10-08 15:58+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/core/portfolio/ui/portfolio-translations.ts:99
+msgid "/ craft"
+msgstr "/ craft"
+
+#: src/core/portfolio/ui/portfolio-translations.ts:94
+msgid "/ research"
+msgstr "/ research"
+
+#: src/core/portfolio/ui/portfolio-translations.ts:104
+msgid "/ scale"
+msgstr "/ scale"
+
+#: src/core/portfolio/ui/SiteFooter/SiteFooter.tsx:10
+msgid "© {year} Sergio Lenza Morillo"
+msgstr "© {year} Sergio Lenza Morillo"
+
+#: src/core/portfolio/ui/ExperienceSection/ExperienceSection.tsx:16
+msgid "14 years turning complexity into <0>product.</0>"
+msgstr "14 years turning complexity into <0>product.</0>"
+
+#: src/core/portfolio/ui/HeroSection/HeroSection.tsx:55
+msgid "14+ years · Madrid"
+msgstr "14+ years · Madrid"
+
+#: src/core/portfolio/ui/portfolio-translations.ts:49
+msgid "2011 — 2014"
+msgstr "2011 — 2014"
+
+#: src/core/portfolio/ui/ProjectsSection/ProjectsSection.tsx:26
+msgid "2011 — 2026"
+msgstr "2011 — 2026"
+
+#: src/core/portfolio/ui/portfolio-translations.ts:44
+msgid "2014 - 2015"
+msgstr "2014 - 2015"
+
+#: src/core/portfolio/ui/portfolio-translations.ts:39
+msgid "2015 — 2018"
+msgstr "2015 — 2018"
+
+#: src/core/portfolio/ui/portfolio-translations.ts:34
+msgid "2018 — 2021"
+msgstr "2018 — 2021"
+
+#: src/core/portfolio/ui/portfolio-translations.ts:29
+msgid "2022 — Present"
+msgstr "2022 — Present"
+
+#: src/core/portfolio/ui/portfolio-translations.ts:66
+msgid "At Kairos, I moved from building features to helping the whole product move forward: React, microfrontends, and microservices for a retail platform that needs to grow without losing speed."
+msgstr "At Kairos, I moved from building features to helping the whole product move forward: React, microfrontends, and microservices for a retail platform that needs to grow without losing speed."
+
+#: src/core/portfolio/ui/portfolio-translations.ts:78
+msgid "At NEORIS, I worked on GENIAC, an “office as a service” platform backed by Grant Thornton to digitize back-office processes: accounting, HR, and business management. I grew from Full Stack to Senior Front-end Developer and helped define practices to improve performance, quality, and maintainability."
+msgstr "At NEORIS, I worked on GENIAC, an “office as a service” platform backed by Grant Thornton to digitize back-office processes: accounting, HR, and business management. I grew from Full Stack to Senior Front-end Developer and helped define practices to improve performance, quality, and maintainability."
+
+#: src/core/portfolio/ui/HeroSection/HeroSection.tsx:15
+msgid "Available for remote work · Madrid"
+msgstr "Available for remote work · Madrid"
+
+#: src/core/portfolio/ui/portfolio-translations.ts:71
+msgid "B2B SaaS · Operations platform"
+msgstr "B2B SaaS · Operations platform"
+
+#: src/core/portfolio/ui/portfolio-translations.ts:16
+msgid "Best practices"
+msgstr "Best practices"
+
+#: src/core/portfolio/ui/portfolio-translations.ts:103
+msgid "Build a foundation others can extend with confidence."
+msgstr "Build a foundation others can extend with confidence."
+
+#: src/core/portfolio/ui/portfolio-translations.ts:102
+msgid "Build a system"
+msgstr "Build a system"
+
+#: src/core/portfolio/ui/SiteHeader/SiteHeader.tsx:61
+msgid "Close menu"
+msgstr "Close menu"
+
+#: src/core/portfolio/ui/portfolio-translations.ts:11
+msgid "Code review"
+msgstr "Code review"
+
+#: src/core/portfolio/ui/StrengthsSection/StrengthsSection.tsx:13
+msgid "Code that stands up to the real world."
+msgstr "Code that stands up to the real world."
+
+#: src/core/portfolio/ui/SiteHeader/SiteHeader.tsx:12
+msgid "Contact"
+msgstr "Contact"
+
+#: src/core/portfolio/ui/ContactSection/ContactSection.tsx:38
+msgid "Copy email"
+msgstr "Copy email"
+
+#: src/core/portfolio/ui/HeroSection/HeroSection.tsx:45
+msgid "Editorial portrait of Sergio Lenza"
+msgstr "Editorial portrait of Sergio Lenza"
+
+#: src/core/portfolio/ui/portfolio-translations.ts:43
+msgid "Elegra Digital Systems"
+msgstr "Elegra Digital Systems"
+
+#: src/core/portfolio/ui/ContactSection/ContactSection.tsx:63
+msgid "Email"
+msgstr "Email"
+
+#: src/core/portfolio/ui/ContactSection/ContactSection.tsx:41
+msgid "Email copied"
+msgstr "Email copied"
+
+#: src/core/portfolio/ui/SiteHeader/SiteHeader.tsx:11
+msgid "Experience"
+msgstr "Experience"
+
+#: src/core/portfolio/ui/ProcessSection/ProcessSection.tsx:21
+msgid "fit together and move forward."
+msgstr "fit together and move forward."
+
+#: src/core/portfolio/ui/HeroSection/HeroSection.tsx:18
+msgid "From architecture"
+msgstr "From architecture"
+
+#: src/core/portfolio/ui/portfolio-translations.ts:79
+msgid "From back office to product"
+msgstr "From back office to product"
+
+#: src/core/portfolio/ui/portfolio-translations.ts:73
+msgid "From zero to product"
+msgstr "From zero to product"
+
+#: src/core/portfolio/ui/portfolio-translations.ts:15
+msgid "Front-end"
+msgstr "Front-end"
+
+#: src/core/portfolio/ui/portfolio-translations.ts:40
+msgid "Front-end Developer"
+msgstr "Front-end Developer"
+
+#: src/core/portfolio/ui/portfolio-translations.ts:30
+msgid "Front-end Lead"
+msgstr "Front-end Lead"
+
+#: src/core/portfolio/ui/SiteFooter/SiteFooter.tsx:13
+msgid "Front-end lead · Product · Systems"
+msgstr "Front-end lead · Product · Systems"
+
+#: src/core/portfolio/ui/portfolio-translations.ts:45
+#: src/core/portfolio/ui/portfolio-translations.ts:50
+msgid "Full-stack Developer"
+msgstr "Full-stack Developer"
+
+#: src/core/portfolio/ui/portfolio-translations.ts:76
+msgid "GENIAC for small businesses"
+msgstr "GENIAC for small businesses"
+
+#: src/core/portfolio/ui/ContactSection/ContactSection.tsx:56
+msgid "GitHub"
+msgstr "GitHub"
+
+#: src/core/portfolio/ui/portfolio-translations.ts:33
+msgid "Global AVL"
+msgstr "Global AVL"
+
+#: src/core/portfolio/ui/ContactSection/ContactSection.tsx:24
+msgid "Have a product challenge?"
+msgstr "Have a product challenge?"
+
+#: src/core/portfolio/ui/ProcessSection/ProcessSection.tsx:15
+msgid "How I work"
+msgstr "How I work"
+
+#: src/core/portfolio/ui/ProcessSection/ProcessSection.tsx:26
+msgid "How I work when there are many moving parts, little time, and a decision that needs to last."
+msgstr "How I work when there are many moving parts, little time, and a decision that needs to last."
+
+#: src/core/portfolio/ui/portfolio-translations.ts:72
+msgid "I designed and built a fleet management platform from scratch to handle large volumes of data and real-time decisions. Without a design team, I also made sure the experience was clear and useful."
+msgstr "I designed and built a fleet management platform from scratch to handle large volumes of data and real-time decisions. Without a design team, I also made sure the experience was clear and useful."
+
+#: src/core/portfolio/ui/StrengthsSection/StrengthsSection.tsx:25
+msgid "I lead through the day-to-day work: unblocking problems, giving actionable feedback, reviewing code, and coordinating with product, design, and other teams."
+msgstr "I lead through the day-to-day work: unblocking problems, giving actionable feedback, reviewing code, and coordinating with product, design, and other teams."
+
+#: src/core/portfolio/ui/ProcessSection/ProcessSection.tsx:18
+msgid "I make the pieces"
+msgstr "I make the pieces"
+
+#: src/core/portfolio/ui/HeroSection/HeroSection.tsx:26
+msgid "I'm Sergio Lenza, a Front-end Lead with over 14 years of experience. I've worked in retail, banking, fleet management, and platforms for small businesses. I move comfortably between interface details and the decisions that make a product sustainable."
+msgstr "I'm Sergio Lenza, a Front-end Lead with over 14 years of experience. I've worked in retail, banking, fleet management, and platforms for small businesses. I move comfortably between interface details and the decisions that make a product sustainable."
+
+#: src/core/portfolio/ui/portfolio-translations.ts:48
+msgid "Ibermática"
+msgstr "Ibermática"
+
+#: src/core/portfolio/ui/portfolio-translations.ts:14
+msgid "JavaScript"
+msgstr "JavaScript"
+
+#: src/core/portfolio/ui/portfolio-translations.ts:28
+msgid "Kairos Digital Solutions"
+msgstr "Kairos Digital Solutions"
+
+#: src/core/portfolio/ui/portfolio-translations.ts:67
+msgid "Leading 4 developers"
+msgstr "Leading 4 developers"
+
+#: src/core/portfolio/ui/portfolio-translations.ts:13
+msgid "Leaflet"
+msgstr "Leaflet"
+
+#: src/core/portfolio/ui/ContactSection/ContactSection.tsx:27
+msgid "Let's make the difficult feel <0>possible.</0>"
+msgstr "Let's make the difficult feel <0>possible.</0>"
+
+#: src/core/portfolio/ui/ContactSection/ContactSection.tsx:49
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: src/core/portfolio/ui/SiteHeader/SiteHeader.tsx:26
+msgid "Main navigation"
+msgstr "Main navigation"
+
+#: src/core/portfolio/ui/portfolio-translations.ts:12
+msgid "Material UI"
+msgstr "Material UI"
+
+#: src/core/portfolio/ui/portfolio-translations.ts:10
+msgid "Microfrontends"
+msgstr "Microfrontends"
+
+#: src/core/portfolio/ui/SiteHeader/SiteHeader.tsx:70
+msgid "Mobile navigation"
+msgstr "Mobile navigation"
+
+#: src/core/portfolio/ui/ExperienceSection/ExperienceSection.tsx:13
+msgid "My experience"
+msgstr "My experience"
+
+#: src/core/portfolio/ui/portfolio-translations.ts:38
+msgid "NEORIS"
+msgstr "NEORIS"
+
+#: src/core/portfolio/ui/portfolio-translations.ts:64
+msgid "Next-generation retail"
+msgstr "Next-generation retail"
+
+#: src/core/portfolio/ui/portfolio-translations.ts:92
+msgid "Observe"
+msgstr "Observe"
+
+#: src/core/portfolio/ui/SiteHeader/SiteHeader.tsx:61
+msgid "Open menu"
+msgstr "Open menu"
+
+#: app/[lang]/layout.tsx:39
+msgid "Portfolio of Sergio Lenza, a frontend lead specializing in digital products, design systems, and high-impact web experiences."
+msgstr "Portfolio of Sergio Lenza, a frontend lead specializing in digital products, design systems, and high-impact web experiences."
+
+#: src/core/portfolio/ui/ProjectsSection/ProjectsSection.tsx:23
+msgid "Products built to go further."
+msgstr "Products built to go further."
+
+#: src/core/portfolio/ui/portfolio-translations.ts:9
+msgid "React"
+msgstr "React"
+
+#: src/core/portfolio/ui/StrengthsSection/StrengthsSection.tsx:17
+msgid "React, Vue.js, JavaScript, TypeScript, Material UI, Leaflet, microfrontends, and microservices. Technology matters; knowing when to simplify, how to measure, and what to leave ready for the next team matters more."
+msgstr "React, Vue.js, JavaScript, TypeScript, Material UI, Leaflet, microfrontends, and microservices. Technology matters; knowing when to simplify, how to measure, and what to leave ready for the next team matters more."
+
+#: src/core/portfolio/ui/portfolio-translations.ts:70
+msgid "Real-time fleet management"
+msgstr "Real-time fleet management"
+
+#: src/core/portfolio/ui/portfolio-translations.ts:65
+msgid "Retail · Microfrontends"
+msgstr "Retail · Microfrontends"
+
+#: src/core/portfolio/ui/portfolio-translations.ts:77
+msgid "SaaS · Business digitalization"
+msgstr "SaaS · Business digitalization"
+
+#: src/core/portfolio/ui/ProjectsSection/ProjectsSection.tsx:20
+msgid "Selected work"
+msgstr "Selected work"
+
+#: src/core/portfolio/ui/portfolio-translations.ts:35
+msgid "Senior Front-end Developer"
+msgstr "Senior Front-end Developer"
+
+#: app/[lang]/layout.tsx:37
+msgid "Sergio Lenza — Frontend Lead"
+msgstr "Sergio Lenza — Frontend Lead"
+
+#: src/core/portfolio/ui/portfolio-translations.ts:97
+msgid "Shape"
+msgstr "Shape"
+
+#: src/core/portfolio/ui/SiteHeader/SiteHeader.tsx:47
+#: src/core/portfolio/ui/SiteHeader/SiteHeader.tsx:91
+msgid "Switch language to English"
+msgstr "Switch language to English"
+
+#: src/core/portfolio/ui/SiteHeader/SiteHeader.tsx:48
+#: src/core/portfolio/ui/SiteHeader/SiteHeader.tsx:92
+msgid "Switch language to Spanish"
+msgstr "Switch language to Spanish"
+
+#: src/core/portfolio/ui/StrengthsSection/StrengthsSection.tsx:10
+msgid "Tech stack and strengths"
+msgstr "Tech stack and strengths"
+
+#: src/core/portfolio/ui/HeroSection/HeroSection.tsx:58
+msgid "Technical leadership that keeps teams moving."
+msgstr "Technical leadership that keeps teams moving."
+
+#: src/core/portfolio/ui/HeroSection/HeroSection.tsx:21
+msgid "to impact."
+msgstr "to impact."
+
+#: src/core/portfolio/ui/portfolio-translations.ts:98
+msgid "Turn scattered signals into an interface that guides."
+msgstr "Turn scattered signals into an interface that guides."
+
+#: src/core/portfolio/ui/portfolio-translations.ts:93
+msgid "Understand the context before opening the editor."
+msgstr "Understand the context before opening the editor."
+
+#: src/core/portfolio/ui/HeroSection/HeroSection.tsx:35
+msgid "View projects"
+msgstr "View projects"
+
+#: src/core/portfolio/ui/SiteHeader/SiteHeader.tsx:10
+msgid "Work"
+msgstr "Work"

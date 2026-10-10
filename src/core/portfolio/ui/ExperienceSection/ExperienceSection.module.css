@@ -1,0 +1,79 @@
+.experience {
+  display: grid;
+  width: min(100%, 80rem);
+  gap: 3rem;
+  margin: 0 auto;
+  padding: 6rem 1.5rem;
+}
+
+.eyebrow {
+  margin: 0 0 0.75rem;
+  color: var(--muted-foreground);
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+}
+
+.title {
+  max-width: 28rem;
+  margin: 0;
+  font-size: 2.25rem;
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: -0.025em;
+}
+
+.accentText {
+  color: var(--accent);
+  font-family: var(--font-serif);
+  font-weight: 400;
+}
+
+.timeline {
+  display: flex;
+  flex-direction: column;
+}
+
+.experienceItem {
+  display: grid;
+  gap: 0.75rem;
+  border-top: 1px solid var(--border);
+  padding: 1.25rem 0;
+}
+
+.period {
+  color: var(--muted-foreground);
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+}
+
+.company {
+  font-weight: 500;
+}
+
+.role {
+  color: var(--muted-foreground);
+  font-size: 0.875rem;
+}
+
+@media (--tablet-and-up) {
+  .title {
+    font-size: 3.75rem;
+  }
+
+  .experienceItem {
+    grid-template-columns: 0.32fr 0.42fr 0.26fr;
+  }
+
+  .role {
+    text-align: right;
+  }
+}
+
+@media (--desktop-and-up) {
+  .experience {
+    grid-template-columns: 0.42fr 0.58fr;
+    padding: 8rem 2.5rem;
+  }
+}

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./public/sergio-profile.webp" alt="Sergio Lenza" width="160" />
+  <img src="./public/profile.webp" alt="Sergio Lenza" width="160" />
 
   # Sergio Lenza
 

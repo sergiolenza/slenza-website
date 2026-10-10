@@ -41,10 +41,10 @@ export default function HeroSection() {
         <div className={styles.portraitGlow} />
         <div className={styles.portraitCard}>
           <Image
-            src="/sergio-profile.webp"
+            src="/profile.webp"
             alt={i18n._(msg`Editorial portrait of Sergio Lenza`)}
-            width={640}
-            height={800}
+            width={400}
+            height={400}
             sizes="(max-width: 352px) calc(100vw - 3rem), 320px"
             preload
             fetchPriority="high"

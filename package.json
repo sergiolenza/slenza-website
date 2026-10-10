@@ -21,7 +21,7 @@
     "test": "vitest run --coverage",
     "test:watch": "vitest --coverage",
     "test:coverage": "pnpm test",
-    "lint:staged": "biome check --staged",
+    "lint:staged": "biome check --staged --no-errors-on-unmatched",
     "prepare": "husky"
   },
   "dependencies": {

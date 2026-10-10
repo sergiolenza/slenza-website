@@ -77,6 +77,27 @@ The test suite uses Vitest's V8 coverage reporter and enforces minimum 80%
 coverage for statements, branches, functions, and lines. The current suite
 covers all application and source TypeScript files.
 
+## Releases
+
+This project follows [Semantic Versioning](https://semver.org/):
+
+- **Patch** (`0.1.0` → `0.1.1`): backward-compatible fixes.
+- **Minor** (`0.1.0` → `0.2.0`): backward-compatible features.
+- **Major** (`0.1.0` → `1.0.0`): breaking changes.
+
+Choose the appropriate bump script:
+
+```bash
+pnpm bump:patch
+pnpm bump:minor
+pnpm bump:major
+```
+
+Each command updates the package version without creating a Git commit or tag.
+Commit the resulting version change using the team's Conventional Commit
+convention, then create and push a matching `v`-prefixed Git tag when publishing
+a release (for example, `v0.2.0`).
+
 ## Architecture
 
 The application is organized around the `portfolio` business boundary:

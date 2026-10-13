@@ -1,6 +1,7 @@
 import { msg } from '@lingui/core/macro';
 import type { Metadata, Viewport } from 'next';
 import { notFound } from 'next/navigation';
+import { SpeedInsights } from '@vercel/speed-insights/next';
 import { initLingui } from '@/core/portfolio/infrastructure/i18n/init-lingui';
 import {
   isLocale,
@@ -65,6 +66,7 @@ export default async function RootLayout({
         >
           {children}
         </LinguiClientProvider>
+        <SpeedInsights />
       </body>
     </html>
   );

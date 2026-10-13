@@ -270,7 +270,7 @@ msgstr "Observe"
 msgid "Open menu"
 msgstr "Open menu"
 
-#: app/[lang]/layout.tsx:39
+#: app/[lang]/layout.tsx:40
 msgid "Portfolio of Sergio Lenza, a frontend lead specializing in digital products, design systems, and high-impact web experiences."
 msgstr "Portfolio of Sergio Lenza, a frontend lead specializing in digital products, design systems, and high-impact web experiences."
 
@@ -306,7 +306,7 @@ msgstr "Selected work"
 msgid "Senior Front-end Developer"
 msgstr "Senior Front-end Developer"
 
-#: app/[lang]/layout.tsx:37
+#: app/[lang]/layout.tsx:38
 msgid "Sergio Lenza — Frontend Lead"
 msgstr "Sergio Lenza — Frontend Lead"
 

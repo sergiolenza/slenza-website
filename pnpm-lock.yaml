@@ -14,6 +14,9 @@ importers:
       '@lingui/react':
         specifier: ^6.9.0
         version: 6.9.0(@babel/core@7.29.7(supports-color@7.2.0))(react@19.2.4)
+      '@vercel/speed-insights':
+        specifier: ^2.0.0
+        version: 2.0.0(next@16.4.0(@babel/core@7.29.7(supports-color@7.2.0))(@types/node@24.10.4)(react-dom@19.2.4(react@19.2.4))(react@19.2.4))(react@19.2.4)
       lucide-react:
         specifier: ^1.16.0
         version: 1.17.0(react@19.2.4)
@@ -818,6 +821,32 @@ packages:
 
   '@types/yargs@17.0.35':
     resolution: {integrity: sha512-qUHkeCyQFxMXg79wQfTtfndEC+N9ZZg76HJftDJp+qH2tV7Gj4OJi7l+PiWwJ+pWtW8GwSmqsDj/oymhrTWXjg==}
+
+  '@vercel/speed-insights@2.0.0':
+    resolution: {integrity: sha512-jwkNcrTeafWxjmWq4AHBaptSqZiJkYU5adLC9QBSqeim0GcqDMgN5Ievh8OG1rJ6W3A4l1oiP7qr9CWxGuzu3w==}
+    peerDependencies:
+      '@sveltejs/kit': ^1 || ^2
+      next: '>= 13'
+      nuxt: '>= 3'
+      react: ^18 || ^19 || ^19.0.0-rc
+      svelte: '>= 4'
+      vue: ^3
+      vue-router: ^4
+    peerDependenciesMeta:
+      '@sveltejs/kit':
+        optional: true
+      next:
+        optional: true
+      nuxt:
+        optional: true
+      react:
+        optional: true
+      svelte:
+        optional: true
+      vue:
+        optional: true
+      vue-router:
+        optional: true
 
   '@vitest/coverage-v8@5.0.3':
     resolution: {integrity: sha512-+klsyz7BvT1vCU28Zkfzms1Ia78XD0V41U3FUtRaa3S+vOr/EXvK1O6BvVD7l1RzEjm6SONR2aybOvDDf9u0mQ==}
@@ -2235,6 +2264,11 @@ snapshots:
   '@types/yargs@17.0.35':
     dependencies:
       '@types/yargs-parser': 21.0.3
+
+  '@vercel/speed-insights@2.0.0(next@16.4.0(@babel/core@7.29.7(supports-color@7.2.0))(@types/node@24.10.4)(react-dom@19.2.4(react@19.2.4))(react@19.2.4))(react@19.2.4)':
+    optionalDependencies:
+      next: 16.4.0(@babel/core@7.29.7(supports-color@7.2.0))(@types/node@24.10.4)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
+      react: 19.2.4
 
   '@vitest/coverage-v8@5.0.3(vitest@5.0.3)':
     dependencies:

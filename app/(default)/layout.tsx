@@ -1,9 +1,14 @@
+import { Analytics } from '@vercel/analytics/next';
+
 export default function DefaultLayout({
   children,
 }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="es">
-      <body>{children}</body>
+      <body>
+        {children}
+        <Analytics />
+      </body>
     </html>
   );
 }
